@@ -1,2 +1,2 @@
-# Single-page-CV
+# single-page-cv
 Roadmap project.
