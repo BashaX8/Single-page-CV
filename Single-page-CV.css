@@ -1,0 +1,22 @@
+body{
+    font-family: "Pixelify sans", "consolas", sans-serif ;
+    font-weight: bolder;
+    font-style: inherit;
+    text-decoration: dashed underline;
+    border-style: outset;
+    border-width: 6px;
+    border-color: rgb(218, 123, 188);
+    border-style: ridge;
+    background: linear-gradient(to top, rgba(248, 215, 83, 0.844), rgba(238, 155, 91, 0.8));
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+
+#basha{
+
+    margin-right: 95%;
+    
+}
