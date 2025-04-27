@@ -1,2 +1,2 @@
 # single-page-cv
-Roadmap project.
+https://github.com/BashaX8/Single-page-CV/blob/main/README.md#single-page-cv
